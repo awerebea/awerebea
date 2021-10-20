@@ -46,7 +46,7 @@
 <!-- </br><h5 align="left">Administration and other:</h5> -->
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- </br><h5 align="left">Static code analysis:</h5> -->
 <a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.sonarqube.org/logos/index/sonarqube-logo@2x.png" alt="sonarcube" width="110" height="40"/> </a>
