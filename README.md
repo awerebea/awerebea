@@ -29,7 +29,7 @@
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 <!-- </br><h5 align="left">Scripting experience:</h5> -->
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/terreng/samples/dc84acf1a8b45cbfe5386e29ea3eaf729bdcf42b/terraform-logo.svg" alt="terraform" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="40" height="40"/> </a>
 <!-- </br><h5 align="left">Scripting experience:</h5> -->
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
