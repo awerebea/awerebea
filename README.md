@@ -33,7 +33,7 @@
 <a href="https://azure.microsoft.com/en-us/services/devops/pipelines/" target="_blank"> <img src="https://github.com/awerebea/awerebea/blob/main/logos/azure_pipelines.png" alt="azure pipelines" width="40" height="40"/> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- </br><h5 align="left">Scripting and automation:</h5> -->
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="39" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/awerebea/awerebea/blob/main/logos/terraform.png" alt="terraform" width="41" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
