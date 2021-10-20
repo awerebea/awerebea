@@ -25,27 +25,32 @@
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <!-- <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> -->
+&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <h5 align="left">CI/CD:</h5> -->
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/services/devops/pipelines/" target="_blank"> <img src="https://github.com/awerebea/awerebea/blob/main/logos/azure_pipelines.png" alt="azure pipelines" width="40" height="40"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- </br><h5 align="left">Scripting and automation:</h5> -->
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="39" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- </br><h5 align="left">Containerization and orchestration:</h5> -->
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="37" height="40"/> </a>
+<br/>
 <!-- </br><h5 align="left">Administration and other:</h5> -->
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- </br><h5 align="left">Static code analysis:</h5> -->
 <a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.sonarqube.org/logos/index/sonarqube-logo@2x.png" alt="sonarcube" width="110" height="40"/> </a>
 <a href="https://sonarcloud.io/" target="_blank"> <img src="https://sonarcloud.io/images/sonarcloud-logo-black.svg" alt="sonarcloud" width="110" height="40"/> </a>
-</br><h5 align="left">Development experience at a programming school:</h5>
+<h5 align="left">Development experience at a programming school:</h5>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
