@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Some of the technologies and tools used in the work:</h3>
-<!-- <h5 align="left">Clouds:</h5> -->
+<!-- <h5 align="left">Cloud providers:</h5> -->
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <!-- <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> -->
@@ -29,8 +29,9 @@
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/services/devops/pipelines/" target="_blank"> <img src="https://github.com/awerebea/awerebea/blob/main/logos/azure_pipelines.png" alt="azure pipelines" width="40" height="40"/> </a>
-<!-- </br><h5 align="left">Scripting experience:</h5> -->
+<!-- </br><h5 align="left">Scripting and automation:</h5> -->
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="39" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <!-- </br><h5 align="left">Containerization and orchestration:</h5> -->
