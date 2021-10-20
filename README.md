@@ -31,6 +31,8 @@
 <!-- </br><h5 align="left">Scripting experience:</h5> -->
 <a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.sonarqube.org/logos/index/sonarqube-logo@2x.png" alt="sonarcube" width="137" height="50"/> </a>
 <!-- </br><h5 align="left">Scripting experience:</h5> -->
+<a href="https://sonarcloud.io/" target="_blank"> <img src="https://sonarcloud.io/images/sonarcloud-logo-black.svg" alt="sonarcloud" width="137" height="50"/> </a>
+<!-- </br><h5 align="left">Scripting experience:</h5> -->
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="48" height="50"/> </a>
 <!-- </br><h5 align="left">Scripting experience:</h5> -->
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a>
