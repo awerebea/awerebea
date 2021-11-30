@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei Bulgakov (awerebea)</h1>
 <h3 align="center">A DevOps engineer from Russia</h3>
 
-- 🔭 I’m currently working **as a DevOps engineer**
+- 🔭 I’m currently working **as a Systems engineer (DevOps)**
 
 - 🌱 I’m currently learning **Kubernetes (k8s), AWS, Terraform, Jenkins and other tools and technologies**
 
