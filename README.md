@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Andrei Bulgakov (awerebea)</h1>
-<h3 align="center">A DevOps engineer from Russia</h3>
 
 - 🔭 I’m currently working **as a Systems engineer (DevOps)**
 
