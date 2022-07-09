@@ -4,9 +4,7 @@
 
 - 🌱 I’m currently learning **Kubernetes (k8s), AWS, Terraform, Jenkins and other tools and technologies**
 
-- 📄 Know about my experience:
-<br/> :uk: [CV_A_Bulgakov_DevOps.pdf](https://drive.google.com/file/d/1MoA51vchCs3JQoX33w5g2jCPOQ2C3puk/view?usp=sharing)
-<br/> :ru: [Резюме_Булгаков_А_А.pdf](https://drive.google.com/file/d/1mVa6HwZi_Uewf3A6LMqyo53KXcv8kGUh/view?usp=sharing)
+- 📄 Know about my experience: :uk: [CV_A_Bulgakov_DevOps.pdf](https://drive.google.com/file/d/1MoA51vchCs3JQoX33w5g2jCPOQ2C3puk/view?usp=sharing)
 
 <!-- - :mortar_board: Education:
   - February 2021 – March 2021. Andersen Lab, online, DevOps training course.
