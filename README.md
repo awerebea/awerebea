@@ -9,13 +9,13 @@
   - April 2020 – May 2021. [School-21](https://21-school.ru/), Kazan, School of programming, ["Ecole-42"](https://42.fr/en/homepage/) branch in Russia.
   - September 2003 – June 2008. [Togliatti State University](https://www.tltsu.ru/), Specialist, Industrial and Civil Construction. -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Send me a text:</h3>
 <p align="left">
 <a href="https://t.me/awerebea" target="blank"><img align="center" src="https://github.com/awerebea/awerebea/blob/main/logos/telegram.png" alt="@awerebea" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/andrei-bulgakov-awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei-bulgakov-awerebea" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14110650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14110650" height="30" width="40" /></a>
 <a href="https://fb.com/a.bulgakov.86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.bulgakov.86" height="30" width="40" /></a>
-<a href="https://twitter.com/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awerebea" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awerebea" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awerebea" height="30" width="40" /></a> -->
 <!-- <a href="https://dev.to/awerebea" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="awerebea" height="30" width="40" /></a> -->
 </p>
