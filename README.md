@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Andrei Bulgakov (awerebea)</h1>
+<h1 align="center">Hi there! 👋 I'm Andrei Bulgakov (awerebea)</h1>
 
-- 🔭 I’m currently working **as a Systems engineer (DevOps)**
+I'm a DevOps Engineer and Site Reliability Engineer (SRE) with experience in designing and managing **AWS-based cloud infrastructures**. My work revolves around building scalable, secure, and efficient solutions that drive operational excellence.
 
-- 🌱 I’m currently learning **Kubernetes (k8s), AWS, Terraform, Jenkins and other tools and technologies**
+## 🚀 What I Do
+- **Automation & Optimization**: I streamline infrastructure and operations with CI/CD pipelines, Terraform, and serverless technologies.
+- **Data Migration**: Successfully migrated complex workloads, ensuring zero data loss and minimal downtime.
+- **Security & Compliance**: Enhanced infrastructure security by refactoring large codebases for compliance with stringent standards.
+- **Cloud Mastery**: Specialized in AWS services like Lambda, ECS Fargate, DynamoDB, Aurora RDS, and more.
 
-<!-- - :mortar_board: Education:
+## Education:
   - February 2021 – March 2021. Andersen Lab, online, DevOps training course.
   - April 2020 – May 2021. [School-21](https://21-school.ru/), Kazan, School of programming, ["Ecole-42"](https://42.fr/en/homepage/) branch in Russia.
-  - September 2003 – June 2008. [Togliatti State University](https://www.tltsu.ru/), Specialist, Industrial and Civil Construction. -->
+  - September 2003 – June 2008. [Togliatti State University](https://www.tltsu.ru/), Bachelor’s degree in Industrial and Civil Construction.
 
-<h3 align="left">Send me a text:</h3>
-<p align="left">
-<a href="https://t.me/awerebea" target="blank"><img align="center" src="https://github.com/awerebea/awerebea/blob/main/logos/telegram.png" alt="@awerebea" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/andrei-bulgakov-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei-bulgakov-devops" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14110650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14110650" height="30" width="40" /></a>
-<a href="https://fb.com/a.bulgakov.86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.bulgakov.86" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awerebea" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awerebea" height="30" width="40" /></a> -->
-<!-- <a href="https://dev.to/awerebea" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="awerebea" height="30" width="40" /></a> -->
-</p>
+## 💡 Highlights
+- Built and optimized infrastructure for **startups and fintech organizations**, saving time and reducing costs.
+- Saved **dozens of working hours** monthly and eliminated human errors by designing and implementing a CI/CD framework in Python and Bash to automate the deployment of Terragrunt components. The solution dynamically parsed code changes, built dependency graphs, identified affected components, and applied updates in parallel, significantly reducing deployment times for infrastructure code changes.
+- Migrated **terabytes of data** across hundreds of S3 buckets and DynamoDB tables with zero data loss and minimal downtime using automated solutions.
+- Ensured the continuity of CI/CD processes by migrating over **1,000** Jenkins pipelines for Java microservices from the deprecated EC2-Classic instance to native AWS CI/CD tools before its termination by AWS.
 
-<h3 align="left">Some of the technologies and tools used in the work:</h3>
+<h2 align="left">Some of the technologies and tools used in the work:</h2>
 <!-- <h5 align="left">Cloud providers:</h5> -->
 <a href="https://aws.amazon.com" target="blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+<!-- <a href="https://azure.microsoft.com/en-in/" target="blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> -->
 <!-- <a href="https://cloud.google.com" target="blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> -->
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <h5 align="left">CI/CD:</h5> -->
@@ -51,9 +50,19 @@
 <!-- </br><h5 align="left">Static code analysis:</h5> -->
 <a href="https://www.sonarqube.org/" target="blank"><img src="https://github.com/awerebea/awerebea/blob/main/logos/sonarqube.png" alt="sonarqube" width="61" height="40"/></a>
 <a href="https://sonarcloud.io/" target="blank"><img src="https://sonarcloud.io/images/sonarcloud-logo-black.svg" alt="sonarcloud" width="110" height="40"/></a>
-<h5 align="left">Development experience at a programming school:</h5>
+<h3 align="left">Development experience at a programming school:</h3>
 <a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+
+## 📫 Let's Connect!
+<p align="left">
+<a href="https://linkedin.com/in/andrei-bulgakov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei-bulgakov" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14110650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14110650" height="30" width="40" /></a>
+<a href="https://fb.com/a.bulgakov.86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.bulgakov.86" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awerebea" height="30" width="40" /></a> -->
+<!-- <a href="https://twitter.com/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awerebea" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/awerebea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="awerebea" height="30" width="40" /></a> -->
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awerebea&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="awerebea" /></p>
 
