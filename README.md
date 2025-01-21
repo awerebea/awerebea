@@ -9,9 +9,8 @@ I'm a DevOps Engineer and Site Reliability Engineer (SRE) with experience in des
 - **Cloud Mastery**: Specialized in AWS services like Lambda, ECS Fargate, DynamoDB, Aurora RDS, and more.
 
 ## Education:
-  - February 2021 – March 2021. Andersen Lab, online, DevOps training course.
-  - April 2020 – May 2021. [School-21](https://21-school.ru/), Kazan, School of programming, ["Ecole-42"](https://42.fr/en/homepage/) branch in Russia.
-  - September 2003 – June 2008. [Togliatti State University](https://www.tltsu.ru/), Bachelor’s degree in Industrial and Civil Construction.
+  - 2019 – 2020. [School-21](https://21-school.ru/), Kazan, School of programming, ["Ecole-42"](https://42.fr/en/homepage/) branch in Russia.
+  - 2003 – 2008. [Togliatti State University](https://www.tltsu.ru/), Bachelor’s degree in Industrial and Civil Construction.
 
 ## 💡 Highlights
 - Built and optimized infrastructure for **startups and fintech organizations**, saving time and reducing costs.
